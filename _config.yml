@@ -60,11 +60,11 @@ social-network-links:
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
- linkedin: antares0811
+  linkedin: antares0811
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: antares__0811
+  instagram: antares__0811
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -74,8 +74,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
- ORCID: 0009-0003-9355-5434
- google-scholar: PdKDsqUAAAAJ&hl
+  ORCID: 0009-0003-9355-5434
+  # google-scholar: PdKDsqUAAAAJ&hl
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -100,7 +100,7 @@ share-links-active:
   vk: false
   reddit: false
   ORCID: true
-  google-scholar: true
+  # google-scholar: true
   linkedin: true
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
