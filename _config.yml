@@ -11,6 +11,7 @@
 
 # Name of website
 title: Thanh-Huy (Harvey) Nguyen
+title-img: "/assets/img/CMU_logo-transformed.png"
 
 # Your name to show in the footer
 author: Thanh-Huy Nguyen
@@ -26,8 +27,6 @@ navbar-links:
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   Google Scholar: "https://scholar.google.com/citations?user=PdKDsqUAAAAJ&hl=en&authuser=1"
 
-navbar-logo:
-  img: "/assets/img/CMU_logo-transformed.png"
 ################
 # --- Logo --- #
 ################
