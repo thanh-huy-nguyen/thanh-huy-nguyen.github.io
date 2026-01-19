@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h1 class="home-name">Thanh-Huy Nguyen</h1>
+title: Huy Nguyen
 subtitle: Carnegie Mellon University
 cover-img: /assets/img/CMU_SCS.jpg
 ---
