@@ -18,7 +18,6 @@ author: Thanh-Huy Nguyen
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
 navbar-links:
   About Me: "aboutme"
   CV: "https://drive.google.com/file/d/1x7UCTrS2R6U9e0lX2KK-VQqA8UWoVBCq/view?usp=sharing"
@@ -27,6 +26,8 @@ navbar-links:
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   Google Scholar: "https://scholar.google.com/citations?user=PdKDsqUAAAAJ&hl=en&authuser=1"
 
+navbar-logo:
+  img: "/assets/img/CMU_logo-transformed.png"
 ################
 # --- Logo --- #
 ################
