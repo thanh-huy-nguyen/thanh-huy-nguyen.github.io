@@ -2,7 +2,7 @@
 layout: page
 title: Thanh-Huy Nguyen
 subtitle: Carnegie Mellon University
-cover-img: carnegie-mellon-university-1.jpg.optimal.jpg
+cover-img: /assets/img/carnegie-mellon-university-1.jpg.optimal.jpg
 ---
 
 <br/>
