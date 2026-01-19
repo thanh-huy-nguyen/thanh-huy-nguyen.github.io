@@ -21,10 +21,11 @@ author: Thanh-Huy Nguyen
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "https://drive.google.com/file/d/1x7UCTrS2R6U9e0lX2KK-VQqA8UWoVBCq/view?usp=sharing"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Google Scholar: "https://scholar.google.com/citations?user=PdKDsqUAAAAJ&hl=en&authuser=1"
 
 ################
 # --- Logo --- #
