@@ -7,7 +7,7 @@ cover-img: /assets/img/radiology.png
 
 <br/>
 
-_I have had the incredible privilege of working with the creative and inspiring people below._
+_I have had the incredible privilege of working with the creative & inspiring people below._
 
 ## Leaders
 
@@ -29,12 +29,12 @@ _I have had the incredible privilege of working with the creative and inspiring 
 
 ## Affiliated Faculty
 
-* Min Xu (PhD), Associate Professor at Carnegie Mellon University, USA
-* Ulas Bagci (PhD), Associate Professor at Northwestern University, USA
-* Phat K. Huynh (PhD), Assistant Professor at NOrth Carolina A&T University, USA
-* Tianyang Wang (PhD), Assistant Professor at University of Alabama at Birmingham, USA
-* Nguyen Quoc Khanh Le (PhD), Associate Professor at Taipei Medical University, TW
-* Quan Nguyen, Lecturer at Posts and Telecommunications Institute of Technology, VN
+* Min Xu (PhD), Associate Professor at Carnegie Mellon University, US
+* Ulas Bagci (PhD), Associate Professor at Northwestern University, US
+* Phat K. Huynh (PhD), Assistant Professor at North Carolina A&T University, US
+* Tianyang Wang (PhD), Assistant Professor at University of Alabama Birmingham, US
+* Khanh Lee (PhD), Associate Professor at Taipei Medical University, TW
+* Quan Nguyen, Lecturer at Posts & Telecommunications Institute of Technology, VN
 
-_Last but not least, I want to thank all the mentee that have worked alongside with us and contributed significantly to our community. Without you, we cannot make this far. Thank you!_
+_Last but not least, thank all the mentees who have worked alongside us and contributed significantly to our community. Without you, we cannot make this far._
 
