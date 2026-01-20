@@ -32,9 +32,9 @@ _I have had the incredible privilege of working with the creative & inspiring pe
 * Min Xu (PhD), Associate Professor at Carnegie Mellon University, US
 * Ulas Bagci (PhD), Associate Professor at Northwestern University, US
 * Phat K. Huynh (PhD), Assistant Professor at North Carolina A&T University, US
-* Tianyang Wang (PhD), Assistant Professor at University of Alabama Birmingham, US
+* Tianyang Wang (PhD), Assistant Professor at University Alabama Birmingham, US
 * Khanh Lee (PhD), Associate Professor at Taipei Medical University, TW
-* Quan Nguyen, Lecturer at Posts & Telecommunications Institute of Technology, VN
+* Quan Nguyen, Lecturer at PTIT, VN
 
 _Last but not least, thank all the mentees who have worked alongside us and contributed significantly to our community. Without you, we cannot make this far._
 
