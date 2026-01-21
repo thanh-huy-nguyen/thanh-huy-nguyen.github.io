@@ -9,11 +9,11 @@ cover-img: /assets/img/radiology.png
 
 ## Openings
 
-**For AIO 2025 students only**, please fill the form here to register for participating [**AIO 2025 AIMA Research Mentorship Program**](https://docs.google.com/forms/d/e/1FAIpQLSe1YY2Jlh9F4LTaMBe5Tejsp2GIwIMByAZCUcz3FYig9StlHQ/viewform?usp=publish-editor)
+* **For AIO 2025 students only**, please fill the form here to register for participating [**AIO 2025 AIMA Research Mentorship Program**](https://docs.google.com/forms/d/e/1FAIpQLSe1YY2Jlh9F4LTaMBe5Tejsp2GIwIMByAZCUcz3FYig9StlHQ/viewform?usp=publish-editor)
 
-**Application Deadline:** January 28th, 2026 _(hard deadline)_
+* **Application Deadline:** January 28th, 2026 _(hard deadline)_
 
-**Interview Period:** from January 29th to February 1st
+* **Interview Period:** from January 29th to February 1st
 
 About project information, please find projects' description below:
 
