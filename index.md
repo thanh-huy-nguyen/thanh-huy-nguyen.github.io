@@ -21,6 +21,7 @@ If you are a Vietnamese undergraduate or master’s student, or an AIO member, a
 
 ## News
 ### **2026**
+* **(2026.01)**: Two papers accepted at **ICASSP 2026**!!! I will attend the conference in Barcelona, Spain! See you soon!
 * **(2026.01)**: Three papers accepted at **ISBI 2026**!!!
 * **(2026.01)**: One paper accepted at **Pattern Recognition (IF: 7.6)**! ["Adaptive Knowledge Transferring with Switching Dual-Student Framework for Semi-Supervised Medical Image Segmentation"](https://www.sciencedirect.com/science/article/pii/S0031320326000786) 
 
@@ -31,7 +32,8 @@ If you are a Vietnamese undergraduate or master’s student, or an AIO member, a
 * **(2025.11)**: One paper accepted at **IEEE JBHI (IF: 6.7)**! ["OASIS-Net: An Obstetric Adversarial Semi-Supervised Image Segmentation Network for Cervical and Fetal Head Ultrasound Imaging"](https://ieeexplore.ieee.org/document/11297152)
 * **(2025.10)**: One paper accepted at **WACV 2026**! ["Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification"](https://arxiv.org/abs/2511.08464)
 * **(2025.9)**: Congratulations to our team (led by [Phuc](https://plnguyen2908.github.io/)) for winning **Honorable Mention Award** by achieving top performance teams at [FLARE Challenge Task 5](https://flare-medfm.github.io/) at MICCAI 2025!!!
-* **(2025.9)** Received a Master's degree in Artificial Intelligence in Health! Graduated as **Salutatorian** from Universite Bourgogne Europe (France)!!! 
+* **(2025.9)** Received a Master's degree in Artificial Intelligence in Health! Graduated as **Salutatorian** from Universite Bourgogne Europe (France)!!!
+* **(2025.9)**: Honored to serve as Program Committee at **AAAI 2026**
 * **(2025.8)**: One paper accepted as poster presentation at **ICCV 2025 Workshop - VisionDoc**! ["Describe anything model for visual question answering on text-rich images"](https://openaccess.thecvf.com/content/ICCV2025W/VisionDocs/html/Vu_Describe_Anything_Model_for_Visual_Question_Answering_on_Text-rich_Images_ICCVW_2025_paper.html)
 * **(2025.7)**: Very honored to give an invited talk at Feinberg School of Medicine, Northwestern University about ["Learning with Limited Annotations and Imperfect Data in Medical Image Analysis"](https://drive.google.com/file/d/13m5VWlFmAykBfkCCsp9wRkrnGI0dY_YX/view)!
 * **(2025.7)**: One paper accepted as poster presentation at **BMVC 2025**! ["Semi-MoE: Mixture-of-Experts meets Semi-Supervised Histopathology Segmentation"](https://arxiv.org/pdf/2509.13834)
